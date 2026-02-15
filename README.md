@@ -8,7 +8,7 @@ Automatically organizes files into folders based on file types in one execution
 
 ## How to run-
 ```python
-organizer.py
+python organizer.py
 ```
 
 ### Before
